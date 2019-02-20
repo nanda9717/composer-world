@@ -1,0 +1,17 @@
+{
+    "name": "narendra/composer-world",
+    "authors": [
+        {
+            "name": "Narendra",
+            "email": "narendrasingh909@gmail.com"
+        }
+    ],
+	"require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "ComposerWorld": "src/"
+        }
+    }
+}
